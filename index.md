@@ -85,17 +85,17 @@ I've published in venues such as **TMLR**, **BMVC**, **SC**, **ICS**, and **HPCA
 
 
 **2021**
-- Jie Ren, **Jiaolin Luo**, Ivy Peng, Kai Wu, Dong Li.  
+- Jie Ren, **Róisín Luo**, Ivy Peng, Kai Wu, Dong Li.  
   *Optimizing Large-Scale Plasma Simulations on Persistent Memory-Based Heterogeneous Memory with Effective Data Placement*.  
   _The 35th ACM International Conference on Supercomputing (ICS 2021)_  
   [DOI](https://doi.org/10.1145/3447818.3460356)
 
 **2020**
-- **Jiaolin Luo**, Luanzheng Guo, Jie Ren, Kai Wu, Dong Li.  
+- **Róisín Luo**, Luanzheng Guo, Jie Ren, Kai Wu, Dong Li.  
   *Enabling Faster NGS Analysis on Optane-Based Heterogeneous Memory*.  
   _SC 2020: The 32nd ACM/IEEE International Conference for High Performance Computing_  
 
-- Jie Ren, **Jiaolin Luo**, Kai Wu, Minjia Zhang, Hyeran Jeon, Dong Li.  
+- Jie Ren, **Róisín Luo**, Kai Wu, Minjia Zhang, Hyeran Jeon, Dong Li.  
   *Sentinel: Efficient Tensor Migration and Allocation on Heterogeneous Memory Systems for Deep Learning*.  
   _HPCA 2020: IEEE International Symposium on High Performance Computer Architecture_  
   [DOI](https://doi.org/10.1109/HPCA51647.2021.00057)
