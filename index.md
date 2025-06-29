@@ -24,7 +24,7 @@ I am a Ph.D. candidate  in **Trustworthy AI for Computer Vision Models & LLMs** 
 - Low-rank, quantization and neural architectural searching
 - Theoretical research in optimization dynamics
 - HPC and large-scale data processing 
-- Digital sustainability, AI for goodness, responsible AI, _etc_.
+- Digital sustainability, AI for good, AI for science, responsible AI, _etc_.
 
 I've published in venues such as **TMLR**, **BMVC**, **SC**, **ICS**, and **HPCA**, with topics ranging from theoretical AI to high-performance computing. I also hold several **US patents** in the area of large-scale software data infrastructure.
 
