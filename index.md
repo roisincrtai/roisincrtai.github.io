@@ -3,10 +3,8 @@
 
 _"I am only stardust – learning to think, to chase dreams."_
 
-_**Ph.D. Candidate in AI & Statistics**_ 
-
-_Research Ireland - Centre for Research Training in AI (CRT-AI)_
-
+_**Ph.D. Candidate in AI & Statistics**_ \
+_Research Ireland - Centre for Research Training in AI (CRT-AI)_ \
 _University of Galway, Ireland_
 
 ## 🔬
