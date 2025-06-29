@@ -3,13 +3,16 @@
 
 _"I am only stardust – learning to think, to chase dreams."_
 
-_**Ph.D. Candidate in AI & Statistics**_  
+_**Ph.D. Candidate in AI & Statistics**_ 
 
-_Researcher in Trustworthy AI, Vision Models, and Large Language Models_
+_Research Ireland - Centre for Research Training in AI (CRT-AI)_
 
-_Ex-Researcher in High-Performance Computing_ 
+_University of Galway, Ireland_
 
-_Ex-Researcher in Large-Scale Software Infrastructure for Data Storage_
+## 🔬
+- _Researcher in Trustworthy AI, Vision Models, and Large Language Models_
+- _Ex-Researcher in High-Performance Computing_ 
+- _Ex-Researcher in Large-Scale Software Infrastructure for Data Storage_
 
 ## 📚 
 
