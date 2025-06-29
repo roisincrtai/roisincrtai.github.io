@@ -6,12 +6,13 @@ _"I am only stardust – learning to think, to chase dreams."_
 _**Ph.D. Candidate in AI & Statistics**_  
 
 _Researcher in Trustworthy AI, Vision Models, and Large Language Models_
+
 _Ex-Researcher in High-Performance Computing_ 
+
 _Ex-Researcher in Large-Scale Software Infrastructure for Data Storage_
 
 ## 📚 
 
----
 
 I am a Ph.D. candidate  in **Trustworthy AI for Computer Vision Models & LLMs** and stochastic differential equations (**SDEs**).  I am interested in the following research themes:
 - Optimization for vision models and LLMs
