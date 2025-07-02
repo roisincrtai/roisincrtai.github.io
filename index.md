@@ -2,12 +2,12 @@
 
 # Róisín Luo
 
-
 _"I am only stardust – learning to think, to chase dreams."_
 
 <img src="images/science_girl.jpeg" height="180">
 
-_**Ph.D. Candidate in AI & Statistics**_ \
+_**Ph.D. Candidate in AI & Statistics**_ 
+
 _Research Ireland - Centre for Research Training in AI (CRT-AI)_ \
 _University of Galway, Ireland_
 
@@ -29,7 +29,7 @@ I am a Ph.D. candidate  in **Trustworthy AI for Computer Vision Models & LLMs** 
 - HPC and large-scale data processing 
 - Digital sustainability, AI for good, AI for science, responsible AI, _etc_.
 
-I've published in venues such as **TMLR**, **BMVC**, **SC**, **ICS**, and **HPCA**, with topics ranging from theoretical AI to high-performance computing. I also hold several **US patents** in the area of large-scale software data infrastructure.
+I've published in venues such as **TMLR**, **BMVC**, **SC**, **ICS**, and **HPCA**, with topics ranging from theoretical AI to high-performance computing. I also hold multiple **US patents** in this area.
 
 ## 🌐 Links
 - **Email**: roisincrt [at] gmail [dot] com
