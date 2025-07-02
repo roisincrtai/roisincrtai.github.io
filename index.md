@@ -1,8 +1,7 @@
 
 
-# Róisín Luo
-
 _"I am only stardust – learning to think, to chase dreams."_
+
 
 <img src="images/science_girl.jpeg" height="180">
 
