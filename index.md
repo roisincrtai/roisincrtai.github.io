@@ -31,7 +31,7 @@ I am a Ph.D. candidate  in **Trustworthy AI for Computer Vision Models & LLMs** 
 I've published in venues such as **TMLR**, **BMVC**, **SC**, **ICS**, and **HPCA**, with topics ranging from theoretical AI to high-performance computing. I also hold multiple **US patents** in this area.
 
 ## 🌐 Links
-- **Email**: roisincrt [at] gmail [dot] com
+- **Email**: roisincrtai [at] gmail [dot] com
 - [GitHub](https://github.com/roisincrtai)
 - [Google Scholar](https://scholar.google.com/citations?user=X33n9mAAAAAJ)
 - [LinkedIn](https://www.linkedin.com/in/roisinluo)
