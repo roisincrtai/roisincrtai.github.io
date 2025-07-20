@@ -38,10 +38,18 @@ I've published in venues such as **TMLR**, **BMVC**, **SC**, **ICS**, and **HPCA
 
 
 
+## 🌿 Ongoing Projects
+
+- Calibrating Uncertainty in Large Language Models with Reinforcement Learning (LLM)
+- Modelling DNA Methylation with Graph Learning
+- Generative-Genetic Multi-Agents
+
+
+
 ## 🧠 Selected Projects
 
 
-- **Optimization-Induced Dynamics**  
+- **Optimization-Induced Dynamics of Lipschitz Continuity**
   Collaborated with international partners to study continuous-time dynamics in neural networks. [arXiv](https://arxiv.org/abs/2506.18588)
 
 - **Novel Low-Bit Quantization Paradigm**  [BMVC2024]
@@ -67,7 +75,10 @@ I've published in venues such as **TMLR**, **BMVC**, **SC**, **ICS**, and **HPCA
 ## 📄 Publications & Preprints
 
 **2025**
-- **Róisín Luo**. *Higher-order singular-value derivatives of rectangular real matrices*.  
+
+- **Róisín Luo**, Erin McCarthy, James McDermott and Colm O’Riordan. *Computational Chronological-Thematic Analysis for Early Modern English Poetry Manuscripts through Zero-Shot Large Language Models*.  
+   
+- **Róisín Luo**, James McDermott and Colm O’Riordan. *Higher-order singular-value derivatives of rectangular real matrices*.  
    [arXiv:2506.03764](https://arxiv.org/abs/2506.03764)
 
 - **Róisín Luo**, James McDermott, Christian Gagné, Changjian Shui, Qiang Sun, Colm O’Riordan.  
@@ -101,5 +112,4 @@ I've published in venues such as **TMLR**, **BMVC**, **SC**, **ICS**, and **HPCA
   *Sentinel: Efficient Tensor Migration and Allocation on Heterogeneous Memory Systems for Deep Learning*.  
   _HPCA 2020: IEEE International Symposium on High Performance Computer Architecture_  
   [DOI](https://doi.org/10.1109/HPCA51647.2021.00057)
-
 
